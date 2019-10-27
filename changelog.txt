@@ -1,0 +1,1 @@
+1. Upgraded jasperreports and jasperreports-metadata to v6.9.0
