@@ -27,7 +27,7 @@ hs_err_pid*
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
-### STS ###
+### STS and eclipse ###
 .apt_generated
 .classpath
 .factorypath
